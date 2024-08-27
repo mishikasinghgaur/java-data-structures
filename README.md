@@ -1,4 +1,4 @@
-# data-structures covered here
+# data-structures
 
 ### 1. **Array**
 An array is a data structure that stores a fixed-size sequential collection of elements of the same type. Arrays allow for quick access to elements using an index but have a fixed size that cannot be altered.
